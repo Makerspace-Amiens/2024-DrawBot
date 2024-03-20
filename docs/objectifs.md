@@ -6,28 +6,27 @@ title: Objectifs du projet
 
 # Introduction
 
-Introduction
 
-Tous les 2 étudiants en 3ème année d’école d’ingénieur à Unilasalle Amiens, nous avons à réalisé un projet de fin d’année. Notre choix est donc de concevoir un DrawBot mural, un robot conçu pour dessiner sur un mur de manière automatisée. 
+Tous les 2 étudiants en 3ème année d’école d’ingénieur à Unilasalle Amiens, nous avons à réalisé un projet de fin d’année. Notre choix fût donc de concevoir un DrawBot mural, un robot conçu pour dessiner sur un mur de manière automatisée. 
 
 
-Son fonctionnement repose sur un 2 systèmes simples:
+Son fonctionnement repose sur 2 systèmes simples:
 
-- La navigation, basé sur deux moteurs qui permettent le déplacement du robot sur toute a surface du tableau.
+- La navigation, basée sur deux moteurs qui permettent le déplacement du robot sur toute la surface du tableau.
 
-- Et le dessin, ou le DrawBot utilise un mécanisme de levage pour contrôler le stylo. Le robot peut ainsi soulever ou abaisser le stylo selon les besoins.
+- Et le dessin, où le DrawBot utilise un méchanisme de levage pour contrôler le stylo. Le robot peut ainsi soulever ou abaisser le stylo selon les besoins du dessins.
 
 Outre le fonctionnement du robot, son utilisateur pourra le contrôler de manière simple depuis une interface utilisateur.
 
 
-Pour donner une utilité du projet à plus grande échelle, comme dans la pub, l’art ou même dans la décoration d’architecture un DrawBot plus grand et avec surement plus de capteur pourrais créer des œuvres précises à grande échelle. Un DrawBot plus grand pourrais par exemple peindre des motifs sur des surface de maisons (intérieur - extérieur) et d’autre encore. 
+Pour donner une utilité du projet à plus grande échelle, comme dans la pub, l’art ou même dans la décoration d’architecture un DrawBot plus grand et avec de nombreux capteurs pourrait créer des œuvres précises sur de grandes surfaces. Un DrawBot plus grand pourrait par exemple peindre des motifs sur des surface de maisons (intérieures - extérieures) et d’autres encore. 
 
 C’est donc un projet à petite échelle qui à néanmoins le même principe et le même fonctionnement qu’un vrai robot utilisable par des professionnels.
 
-
+(!!!! conclusion !!!!)
 En tant qu'étudiants en ingénierie, ce projet présente donc plusieurs aspects intéressants:
 
-Tout d'abord, c’est une occasion d'appliquer les connaissances théoriques acquises au cours de nos études en pratique. La conception et la réalisation nous va favoriser la maîtrise de nos compétences en électronique et en programmation.
+Tout d'abord, c’est une occasion d'appliquer les connaissances théoriques acquises au cours de nos études en pratique. La conception et la réalisation va nous favoriser la maîtrise de nos compétences en électronique et en programmation.
 
 Il nous permettra aussi de développer nos compétences en travail d'équipe, en gestion de projet et en résolution de problèmes. En tant que futurs ingénieur, ce sont de compétence dont nous aurons le plus besoin à l’avenir. 
 
