@@ -12,8 +12,11 @@ Bienvenue dans la documentation du projet Drawbot. Ce site a pour but de fournir
 
 ## À propos du Projet
 
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
-TEST MODIF
+Notre projet vise à fusionner l'art et la technologie en développant un robot mural capable de transformer des images en déssins mureaux grâce à un logiciel. Grâce à la carte Arduino ESP32 notre drawbot aura une fonctionnalité supplémentaire des autres projets drawbot que l'on peut voir sur le net car il sera capable de recevoir des images en bluetooth et non seulement par cable.
+
+Notre équipe, composée de 3 étudiants en école d'ingénieur, apporte une multitude de visions avec des compétences quasi-similaire, allant de la conception mécanique à la programmation, unis par une passion par le désir de créer le drawbot de nos idées. Notre engagement se porte sur la création d'un outil à la fois accessible et innovant, destiné à élargir les horizons de l'expression créative et à introduire des concepts de robotique de manière interactive et engageante.
+
+Ce projet illustre l'essort de la programmation, plus particulièrement la collaboration possible avec la machine pour , offrant un nouveau médium pour l'art mural et l'apprentissage technologique.
 
 ## Poster
 
