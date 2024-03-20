@@ -6,19 +6,39 @@ title: Objectifs du projet
 
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+Tous les 2 étudiants à Unilasalle Amiens en 3ème année du cycle préparatoire, nous avons eu à réalisé un projet de Drawbot murale, cette opportunité de faire un projet aussi libre va nous permettre de développer de nouvelles compétences en terme d'organisation et de compétences techniques.
+
 
 ## Contexte du Projet
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+
 
 ## Objectifs du Projet
 
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
+Nous avons séparés les objectifs en 2 parties :
+
+Les objectifs personnels :
+
+
+1. Développé nos compétences : Acquérir et approfondir nos connaissances en programmation, electronique et mécanique, notamment avec la maîtrise de la carte Arduino ESP32, des moteurs pas à pas ainsi que l'aptitude à concevoir des systèmes mécaniques efficaces.
+2. Innovation et créativité : Concevoir des fonctionnalités unique pour notre drawbot afin qu'il se distingue des projets similaires.
+3. Gestion de projet : Améliorer notre capacité à plannifier, gérer nos ressources et communiquer ainsi qu'à réspécter un délais ainsi qu'un budget imposé.
+
+
+Les objectifs de réalisation :
+
+
+1. Concevoir un drawbot capable de déssiner de manière précise sur un tableau blanc à l'aide d'un marqueur
+2. Intégrer des technologies de contrôle de mouvement correspondants à nos besoins ( pas à pas pour la précision )
+3. Développer une interface permettant de charger une image numérique, sélectionner des options de dessin et contrôler le drawbot sans problèmes. La facilité d'utilisation et l'accessibilité seront essentiels.
+4. Construit avec des matériaux durables pour lui garantir une longue durée de vie.
+
+-
 
 # Existant
 
-Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio.
+Plusieurs version de ce projet ont déjà été développés, cette immense source d'informations nous permettant d'imager notre projet et d'en tirer les meilleurs éléments. 
+Notre version de ce projet visant à innover dans l'efficacité et l'accéssibilité, notamment grâce à notre carte Arduino ESP32 permettant d'être utilisé via wifi/bluetooth.
 
 # Cahier des Charges
 
