@@ -36,25 +36,29 @@ En tant qu’étudiants en ingénierie, ce projet présente donc plusieurs aspec
 
 ## Objectifs du Projet
 
-Nous avons séparés les objectifs en 2 parties :
+Les objectifs de notre projet sont définis en trois parties différentes, chacune contribuant à la réalisation réussie du DrawBot ainsi qu'à notre développement personnel en tant qu'ingénieurs.
+
+Objectifs du robot :
+  - Concevoir un DrawBot fonctionnel et précis :
+    Notre priorité est de créer un DrawBot capable de dessiner sur un tableau blanc de manière plus ou moins précise. Cela implique la mise en place d'un mécanisme fluide pour le robot contrôlé par deux moteurs que nous devrons choisir précisément.
+
+  - Utilisation de technologies durables et bien adaptées : 
+    Le but, comme nous venons de le mentionner ci-dessus, est d’intégrer des technologies de contrôle de mouvement pour que le robot dessine précisément. Les technologies devront aussi être durables, afin d’assurer la robustesse et la fiabilité du DrawBot. 
+
+Objectifs d’améliorations – Si le temps le permet :
+  - Intégration d'un contrôle à distance :
+    Nous pourrions étendre les capacités du DrawBot en le connectant à un serveur, permettant ainsi un contrôle à distance. Cela serait      utile pour le superviser ou ajuster le processus de dessin à distance (pour le mettre en veille, vérifier les bugs, etc.).
+
+  -  Développement de notre propre interface utilisateur :
+    Nous pourrions aussi créer une interface utilisateur simple et accessible, où l’on pourrait charger les images à dessiner, sélectionner des options de dessin et contrôler le DrawBot à distance.
 
 Les objectifs personnels :
+  - Évaluer et développer nos compétences techniques : 
+    Acquérir et approfondir nos connaissances en programmation, électronique et même en mécanique.
 
-1. Réaliser un projet technique en 75h
-2. Développé nos compétences : Acquérir et approfondir nos connaissances en programmation, electronique et mécanique, notamment avec la maîtrise de la carte ESP32, des moteurs pas à pas ainsi que l'aptitude à concevoir des systèmes mécaniques efficaces.
-3. Réinvestir nos compétences : Se servir de nos compétences acquises lors du cycle pré-ingénieur afin de mener à bien ce projet
-4. Innovation et créativité : Concevoir des fonctionnalités unique pour notre drawbot afin qu'il se distingue des projets similaires.
-5. Gestion de projet : Améliorer notre capacité à plannifier, gérer nos ressources et communiquer ainsi qu'à réspécter un délais ainsi qu'un budget imposé.
-6. Atteindre une réalisation pratique 
+  - Développer nos compétences en travail d’équipe, en gestion de projet et en résolution de problèmes : 
+    Améliorer notre capacité à planifier, gérer nos ressources et communiquer ainsi qu'à respecter un cahier des charges.
 
-
-Les objectifs de réalisation :
-
-
-1. Concevoir un drawbot capable de déssiner de manière précise sur un tableau blanc à l'aide d'un marqueur
-2. Intégrer des technologies de contrôle de mouvement correspondants à nos besoins ( pas à pas pour la précision )
-3. Développer une interface permettant de charger une image numérique, sélectionner des options de dessin et contrôler le drawbot sans problèmes. La facilité d'utilisation et l'accessibilité seront essentiels.
-4. Construit avec des matériaux durables pour lui garantir une longue durée de vie.
 
 
 
