@@ -8,7 +8,7 @@ title: Accueil
 
 Bienvenue dans la documentation du projet Drawbot. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et même reproduire et améliorer efficacement notre projet.
 
-![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/2024-03-20_10h37_13.png)
+![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/accueil.png)
 
 ## À propos du Projet - Le DRAWBOT
 
