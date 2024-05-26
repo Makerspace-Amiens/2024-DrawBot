@@ -11,6 +11,8 @@ Nous sommes trois étudiants en troisième année d'école d'ingénieur à UniLa
 Amiens, et pour notre projet de fin d'année, nous avons choisi de concevoir un Drawbot
 mural.
 
+
+
 Il s'agit d'un robot conçu pour dessiner de manière automatisée sur une surface
 verticale.
 
@@ -21,12 +23,15 @@ Son fonctionnement repose sur 2 systèmes simples :
 • La navigation, basée sur deux moteurs qui permettent le déplacement du robot
 sur toute la surface du tableau.
 
+
 • Et le dessin, où le Drawbot utilise un mécanisme de rouage pour contrôler le
 stylo. Le robot peut ainsi avancer ou reculer le stylo selon les besoins du dessin.
 
 
+
 Outre le fonctionnement du robot, son utilisateur pourra le contrôler de manière simple
 depuis une interface utilisateur.
+
 
 Pour donner une utilité du projet à plus grande échelle, comme dans la pub, l’art ou
 même dans la décoration en architecture un Drawbot plus grand et avec de nombreux
@@ -45,17 +50,22 @@ intéressants :
 Tout d’abord, c’est une occasion d’appliquer les connaissances théoriques acquises
 au cours de nos études en pratique. 
 
+
 La conception et la réalisation va nous favoriser
 la maîtrise de nos compétences en électronique et en programmation.
+
 
 Le projet nous permettra aussi de développer nos compétences en travail d’équipe,
 en gestion de projet et en résolution de problèmes. 
 
+
 En tant que futurs ingénieurs, ce
 sont de compétence dont nous aurons le plus besoin à l’avenir.
 
+
 On a également pu élargir notre vision de l’impact de la technologie sur la société et
 donné un sens au projet à cette petite échelle.
+
 
 La conception de ce Drawbot mural est une occasion d’appliquer nos compétences
 techniques et de travail d’équipe, développer notre esprit innovateur d’ingénieur, et
@@ -72,6 +82,7 @@ d'intérêt au développement d'un Drawbot mural pour plusieurs raisons :
 
 C’est tout d’abord un concept original qui offre un défi technique différent de nombreux
 projets robotiques et une utilité innovante. 
+
 
 Il permet de dessiner de manière
 automatisée, ce qui est particulièrement avantageux pour les personnes qui ne savent
@@ -91,6 +102,7 @@ dessin plus avancées. Ce potentiel de développement continu est très motivant
 Principes de base de la robotique et de la programmation nécessaire
 Le projet nous offre une excellente occasion de mettre en pratique les principes de
 base de la robotique et de la programmation que nous avons appris en cours.
+
 
 Voici un
 aperçu des compétences et connaissances spécifiques que nous allons appliquer et
@@ -275,9 +287,7 @@ drawbot Arduino tout en suivant le même principe utilisé par les imprimantes
 3D :
 
 
-https://data.emotion-
-tech.com/ftp/Datasheets_et_sources/Lab_et_news/Scriboo/eMt_Scriboo_relea
-se_1.1.zip
+https://data.emotion-tech.com/ftp/Datasheets_et_sources/Lab_et_news/Scriboo/eMt_Scriboo_release_1.1.zip
 
 
 D’autres drawbot ! :
