@@ -7,10 +7,14 @@ title: Études et choix techniques
 # Études et choix techniques
 
 # Choix techniques :
+
 ESP WROOM 32
+
 Spécificité : La carte fonctionne comme le cerveau du drawbot. Elle contrôlera les
 moteurs et recevra les commandes pour dessiner.
+
 Documention : https://docs.arduino.cc/hardware/nano-esp32/#tech-specs
+
 Pourquoi choisir l'ESP32 ?
 • Connectivité avancée : L'ESP32 offre une connectivité Wifi et Bluetooth intégrée
 grâce au microcontrôleur basé sur le chipset ESP32 - u-blox® NORA-W106
@@ -22,47 +26,65 @@ permet de gérer efficacement les calculs complexes nécessaires au contrôle de
 moteurs pas à pas et à d'autres tâches de traitement en temps réel.
 
 A noter :
+
 • L'ESP32 dispose de 14 broches d'E/S, offrant une certaine flexibilité pour une
 potentielle extension de notre projet.
 
 # SG90 Servo Moteur
+
 Spécificité : Contrôler le mouvement vertical du marqueur du drawbot.
 Fiche technique : https://robotix.ah-oui.org/user_docs/dos11/sg90-data.pdf
 Pourquoi choisir le SG90 ?
+
 • Force, précision et fiabilité : Pour lever et baisser le stylo, le sg90 est
 suffisamment précis et bien qu’il ne soit pas le servo moteur le plus puissant, la
 force qu’il peut fournir est largement suffisante.
+
 • Taille compacte : Le SG90 est plus petit et plus léger que le servo moteur
 MG996R, ce qui le rend plus adapté à notre drawbot avec ses déplacements où
 la taille et le poids sont à prendre en compte.
+
 • Prix : Le SG90 est l'un des servos moteurs les moins chers disponibles sur le
 marché. Prix unitaire : ± 1 euro.
 
 # Moteurs NEMA 17
+
 Spécificités : Déplacer le drawbot les axes X et Y.
+
 En savoir plus - Datasheet : https://www.robot-maker.com/shop/moteurs-et-
 actionneurs/14-moteur-pas-a-pas-nema-17-14.html
+
 Pourquoi choisir des moteurs NEMA 17 ?
+
 • Couple, précision : Il offre un bon équilibre entre taille et puissance, idéal pour
 déplacer le stylo et le support avec précision sur toute la surface de dessin.
+
 • Fiabilité et durabilité : Robustes et fiables il est adapté à une utilisation à long
 terme pour notre projet.
+
 Pourquoi pas à pas : Les moteurs pas à pas avancent par incréments précis à
 chaque impulsion électrique, ce qui facilite la gestion du positionnement et du
 mouvement du stylo.
 
 # Driver moteur DRV8825
+
 Spécificités Utilisé pour alimenter et contrôler les moteurs pas à pas à partir de
 l'Arduino.
+
 Documentation : https://www.ti.com/product/DRV8825#params
+
 Pourquoi choisir des moteurs DRV8825 ?
+
 • Puissance : Le DRV8825 peut fournir suffisamment de courant pour alimenter nos
 moteurs pas à pas.
+
 • Contrôle précis : Il offre des options de micro-pas pour un contrôle précis du
 mouvement.
+
 • Fiabilité : Il est connu pour apporter une performance très fiable.
 
 # Courroies et poulies (GT2) :
+
 Spécificité : Transmettent le mouvement entre les moteurs et les axes X et Y.
 
 • Fiabilité : Les courroies et poulies GT2 sont choisies pour leur fiabilité et leur
@@ -76,6 +98,7 @@ du drawbot sans secousses ni à-coups.
 Plus précis que ce genre de courroies.
 
 # Alimentation :
+
 Rôle : Alimenter le drawbot
 Regulateur de tension 5V pour la carte ESP32
 PJ-102B : prise jack pour recevoir le courant
