@@ -23,9 +23,7 @@ Enfin, notre engagement pour ce projet c’est d’abord de mettre en place un r
 
 ## Poster
 
-Ici vous publierez le poster de votre projet.
-
-![Poster projet](images/poster.jpg)
+![Poster projet](images/poster drawbo.png)
 
 ## Vidéo
 
