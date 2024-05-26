@@ -16,9 +16,11 @@ moteurs et recevra les commandes pour dessiner.
 Documention : https://docs.arduino.cc/hardware/nano-esp32/#tech-specs
 
 Pourquoi choisir l'ESP32 ?
+
 • Connectivité avancée : L'ESP32 offre une connectivité Wifi et Bluetooth intégrée
 grâce au microcontrôleur basé sur le chipset ESP32 - u-blox® NORA-W106
 (ESP32-S3)
+
 • Puissance de traitement : La carte est équipée d'un processeur Dual-core, avec
 une fréquence pouvant atteindre 240 MHz, offrant d'excellentes capacités de
 calcul. Il est plus puissant que de nombreuses autres cartes Arduino, ce qui lui
@@ -33,7 +35,9 @@ potentielle extension de notre projet.
 # SG90 Servo Moteur
 
 Spécificité : Contrôler le mouvement vertical du marqueur du drawbot.
+
 Fiche technique : https://robotix.ah-oui.org/user_docs/dos11/sg90-data.pdf
+
 Pourquoi choisir le SG90 ?
 
 • Force, précision et fiabilité : Pour lever et baisser le stylo, le sg90 est
@@ -100,35 +104,48 @@ Plus précis que ce genre de courroies.
 # Alimentation :
 
 Rôle : Alimenter le drawbot
+
 Regulateur de tension 5V pour la carte ESP32
+
 PJ-102B : prise jack pour recevoir le courant
+
 Secteur 12V
 
 
 # Support 3D
+
 Spécificités : Châssis du robot et fixation pour les moteurs.
 
 
 # Logiciels et outils :
+
 Logiciel de conversion d'image : Pour convertir les images JPEG en fichiers SVG,
 nous allons utiliser Inkscape. (Amelioration : linclure sur une surface direct au robot)
+
 L'IDE Arduino : utilisé pour écrire, compiler et téléverser le G-Code sur la carte
 ESP32.
+
 On Shape et SolidWorks : Logiciel de modélisation 3D pour les support
+
 ShareX : Screenshoot professionnalisés des modélisations 3D
+
 Kicad : Logiciel de réalisation de circuit imprimé
+
 FluidNC : Firmware optimisé pour l’ESP32, intégre une Interface Utilisateur au projet
 ( WIFI )
 
 # Etudes :
 # Mécanisme partie microcontrôleur:
+
 Le mécanisme du Drawbot repose sur un processus assez simple mais bien établi,
-similaires à des principes utilisés dans les imprimantes 3D. Pour mieux comprendre
-son fonctionnement, voyons les différentes étapes du processus :
+similaires à des principes utilisés dans les imprimantes 3D. 
+
+Pour mieux comprendre son fonctionnement, voyons les différentes étapes du processus :
 
 ![etudes](images/etudes.png)
 
 # 1 - Conversion d'image JPEG en SVG :
+
 Le processus débute par l'envoi d'une image sous format JPEG. Cette image
 est ensuite convertie en un fichier SVG (Scalable Vector Graphics) pour la
 vectoriser.
@@ -144,36 +161,46 @@ précisément sur le tableau.
 
 
 # 2 - Analyse du SVG :
+
 Une fois convertie en SVG, l'image est analysée pour extraire les coordonnées
-x,y des trajectoires de dessin. Elles représentent les contours des formes et
+x,y des trajectoires de dessin. 
+
+Elles représentent les contours des formes et
 des lignes dans l'image, et serviront à guider le DrawBot lors du dessin.
 
 
 # 3 - Transmission des coordonnées au microcontrôleur :
+
 Les coordonnées extraites sont ensuite transmises au microcontrôleur qui
 traitera les instructions reçues et de contrôlera les moteurs et le servomoteur
 pour effectuer le dessin.
 
 
 # 4 - Génération des instructions de mouvement :
+
 En fonction des coordonnées reçues, le microcontrôleur génère une séquence
-d'instructions de mouvement. Ces instructions déterminent précisément où le
+d'instructions de mouvement.
+
+Ces instructions déterminent précisément où le
 DrawBot doit se déplacer sur le mur et à quelle vitesse, ainsi que quand il doit
 lever ou abaisser le stylo pour dessiner.
 
 
 # 5 – Le dessin :
+
 En suivant les instructions générées, le DrawBot effectue les mouvements
-nécessaires pour reproduire le dessin sur le mur. Cela implique le
-déplacement précis du DrawBot sur toute la surface du tableau mural, ainsi
-que le contrôle du mécanisme de levage du stylo pour le positionner
-correctement en fonction des besoins du dessin.
+nécessaires pour reproduire le dessin sur le mur. 
+
+Cela implique le déplacement précis du DrawBot sur toute la surface du tableau mural, ainsi
+que le contrôle du mécanisme de levage du stylo pour le positionner correctement en fonction des besoins du dessin.
 
 
 # Utilisation du G-Code - Pour les imprimantes 3D :
 Le langage de programmation utilisé pour contrôler le mouvement des
-imprimantes 3D est souvent le G-Code. Un langage de programmation à
-contrôle numérique composé d'une série de commandes appelées G-Code.
+imprimantes 3D est souvent le G-Code. 
+
+Un langage de programmation à contrôle numérique composé d'une série de commandes appelées G-Code.
+
 La plupart de ces commandes commencent par un G (d'où le nom G-code).
 
 # Logiciel et firmware pour envoyer le svg et piloter le robot :
@@ -184,15 +211,22 @@ Voici un schéma pour expliquer simplement comment cela fonctionne :
 # Etude du robot partie dessin:
 
 ![etudes3](images/etudes3.png)
+
 Gcode dans la sd – plus tard par wifi …
+
 Moteur tourne pour faire bouger le robot
+
 Servo sactive pour avancer ou reculer le stylo – écrire ou non
 
 
 # Etude branchement et technique – carte kicad
+
 Regulateur +image
+
 Driver ou les pates sont connectées et pk + pk condo
+
 Servo IDEM
+
 Screen schema et footprints de kicad…
 
 
