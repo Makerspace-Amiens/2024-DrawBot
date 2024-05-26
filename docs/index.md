@@ -27,6 +27,10 @@ Enfin, notre engagement pour ce projet c’est d’abord de mettre en place un r
 
 ## Vidéo
 
+Lien youtube
+https://www.youtube.com/watch?v=KTYTQtNugCk
+
+Lien telechargement :
 [View video](images/video.webm)
 <video src="images/video.webm" controls="controls" title="Title" style="width: 100%;"></video>
 
