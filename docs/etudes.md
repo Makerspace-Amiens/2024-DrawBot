@@ -11,7 +11,7 @@ Le mécanisme du Drawbot repose sur un processus assez simple mais bien établi,
 similaires à des principes utilisés dans les imprimantes 3D. Pour mieux comprendre
 son fonctionnement, voyons les différentes étapes du processus :
 
-[etudes](images/etudes.png)
+![etudes](images/etudes.png)
 
 # 1 - Conversion d'image JPEG en SVG :
 Le processus débute par l'envoi d'une image sous format JPEG. Cette image
@@ -64,11 +64,11 @@ La plupart de ces commandes commencent par un G (d'où le nom G-code).
 # Logiciel et firmware pour envoyer le svg et piloter le robot :
 
 Voici un schéma pour expliquer simplement comment cela fonctionne :
-[etudes2](images/etudes2.png)
+![etudes2](images/etudes2.png)
 
 # Etude du robot partie dessin:
 
-[etudes3](images/etudes3.png)
+![etudes3](images/etudes3.png)
 Gcode dans la sd – plus tard par wifi …
 Moteur tourne pour faire bouger le robot
 Servo sactive pour avancer ou reculer le stylo – écrire ou non
