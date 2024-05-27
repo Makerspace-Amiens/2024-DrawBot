@@ -23,7 +23,7 @@ Enfin, notre engagement pour ce projet c’est d’abord de mettre en place un r
 
 ## Poster
 
-![Poster projet](images/poster.png)
+![Poster projet](images/poster.jpg)
 
 ## Vidéo
 
