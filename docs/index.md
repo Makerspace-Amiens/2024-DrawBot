@@ -10,28 +10,27 @@ Bienvenue dans la documentation du projet Drawbot. Ce site a pour but de fournir
 
 ![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/acceuil.png)
 
-## À propos du Projet - Le DRAWBOT
+## **À propos du Projet - Le DRAWBOT**
 
 Notre projet combine la technologie au dessin, le but est de mettre au point un robot mural. Le DrawBot sera capable de dessiner sur des murs n’importe quelle image envoyée par l’utilisateur grâce à un logiciel.
 
 Notre projet ayant pour but d’être repris et amélioré, aura des fonctionnalités supplémentaires intéressantes. Il aura par exemple une connectivité Wi-Fi et Bluetooth permettant à l’utilisateur d’utiliser le DrawBot à distance.
 
-En ce qui concerne notre équipe, elle est composée de 3 étudiants en troisième année d’école d’ingénieurs.  Nous avons donc tous les trois des compétences quasi similaires, allant de la conception mécanique à la programmation.
+En ce qui concerne notre équipe, elle est composée de 3 étudiants en troisième année d’école d’ingénieurs. Nous avons donc tous les trois des compétences quasi similaires, allant de la conception mécanique à la programmation.
 
 Enfin, notre engagement pour ce projet c’est d’abord de mettre en place un robot fonctionnel, mais aussi de le rendre accessible en le documentant au plus possible afin qu’une autre équipe le reprenne et l’améliore.
 
-
-## Poster
+## **Poster**
 
 ![Poster projet](images/poster.jpg)
 
-## Vidéo
+## **Vidéo**
 
-Lien youtube
+Lien youtube  
 https://www.youtube.com/watch?v=KTYTQtNugCk
 
-Lien telechargement :
-[View video](images/video.webm)
+Lien téléchargement :  
+[View video](images/video.webm)  
 <video src="images/video.webm" controls="controls" title="Title" style="width: 100%;"></video>
 
 ---
