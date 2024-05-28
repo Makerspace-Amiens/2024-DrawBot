@@ -132,7 +132,7 @@ Châssis du robot et fixation pour les moteurs.
 - ![Arduino IDE](images/arduino.png) **L'IDE Arduino :**  
   Utilisé pour écrire, compiler et téléverser le G-Code sur la carte ESP32.
 
-- ![OnShape](images/onshape.png) **On Shape** **/**  ![OnShape](images/sw.png)**SolidWorks :**  
+- ![OnShape](images/onshape.png) **On Shape** **/**  ![OnShape](images/sw.jpg)**SolidWorks :**  
   Logiciels de modélisation 3D pour les supports.
 
 - ![ShareX](images/sharex.jpg) **ShareX :**  
