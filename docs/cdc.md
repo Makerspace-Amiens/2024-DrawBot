@@ -57,6 +57,6 @@ Le Drawbot doit respecter certaines spécifications techniques et fonctionnelles
 
     Estimation : 250 €, incluant le matériel, le développement logiciel et les tests
 
-5. Conclusion
+4. Conclusion
 
 Le but du drawbot est d'être un appareil précis, fiable et facile à utiliser, capable de transformer des fichiers numériques en œuvres murales avec une grande exactitude. L’interface utilisateur doit être intuitive pour permettre une utilisation par des non-techniciens.
