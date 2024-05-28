@@ -52,10 +52,3 @@ D’autres Drawbot :
 - https://blog.zenika.com/2021/10/21/drawbot-le-robot-dessinateur-du-devfest-🖊/
 - https://www.reprap-france.com/article/realisez-vous-meme-un-drawbot-scriboo
 
-## **Cahier des Charges**
-
-Le Drawbot doit respecter certaines spécifications techniques et fonctionnelles :
-
-1. **Précision du dessin :** Le dessin doit être reproduit à l'identique.
-2. **Dimension du support :** Adaptable à différents supports muraux.
-3. **Interface utilisateur :** Interface simple pour le
