@@ -26,11 +26,10 @@ Enfin, notre engagement pour ce projet c’est d’abord de mettre en place un r
 
 ## **Vidéo**
 
-Lien youtube  
-https://www.youtube.com/watch?v=KTYTQtNugCk
+<video src="images/video_new.webm" controls="controls" title="Title" style="width: 100%;"></video>
 
-Lien téléchargement :  
-[View video](images/video_new.webm)  
-<video src="images/video.webm" controls="controls" title="Title" style="width: 100%;"></video>
+## ** Remerciements **
+
+Nous tenons à remercier Adrien Bracq, Guy Chaumier ainsi que nos camarades de classe pour leur aide précieuse tout au long du projet, de l'organisation à la concéption, chacun de leurs conseils nous ont permis de créer le projet de nos ambitions.
 
 ---
