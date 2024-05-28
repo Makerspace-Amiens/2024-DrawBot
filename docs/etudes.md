@@ -10,6 +10,8 @@ title: Études et choix techniques
 
 ### **ESP WROOM 32**
 
+![ESP32](images/esp32.jpg)
+
 **Spécificité :**  
 La carte fonctionne comme le cerveau du drawbot. Elle contrôlera les moteurs et recevra les commandes pour dessiner.
 
@@ -30,6 +32,8 @@ La carte fonctionne comme le cerveau du drawbot. Elle contrôlera les moteurs et
 
 ### **SG90 Servo Moteur**
 
+![Servo Motor](images/servomotor.png)
+
 **Spécificité :**  
 Contrôler le mouvement vertical du marqueur du drawbot.
 
@@ -48,6 +52,8 @@ Contrôler le mouvement vertical du marqueur du drawbot.
   Le SG90 est l'un des servos moteurs les moins chers disponibles sur le marché, avec un prix unitaire d'environ 1 euro.
 
 ### **Moteurs NEMA 17**
+
+![NEMA 17 Motor](images/motor.jpg)
 
 **Spécificités :**  
 Déplacer le drawbot sur les axes X et Y.
@@ -68,6 +74,8 @@ Les moteurs pas à pas avancent par incréments précis à chaque impulsion éle
 
 ### **Driver moteur DRV8825**
 
+![DRV8825 Driver](images/DRV8825.png)
+
 **Spécificités :**  
 Utilisé pour alimenter et contrôler les moteurs pas à pas à partir de l'Arduino.
 
@@ -87,6 +95,8 @@ Utilisé pour alimenter et contrôler les moteurs pas à pas à partir de l'Ardu
 
 ### **Courroies et poulies (GT2)**
 
+![GT2 Belts and Pulleys](images/GT2.jpg)
+
 **Spécificité :**  
 Transmettent le mouvement entre les moteurs et les axes X et Y.
 
@@ -96,10 +106,11 @@ Transmettent le mouvement entre les moteurs et les axes X et Y.
 - **Faible jeu :**  
   Minimum de jeu et de retard, assurant un mouvement fluide et régulier du drawbot sans secousses ni à-coups.
 
-![courroie](images/courroie.png)
-*Plus précis que ce genre de courroies.*
-
 ### **Alimentation**
+
+![12V Power Adapter](images/secteur.jpg)
+![PJ-102B Jack](images/pj.jpg)
+![Voltage Regulator](images/transistor.jpg)
 
 **Rôle :**  
 Alimenter le drawbot
@@ -194,4 +205,3 @@ Voici un schéma pour expliquer simplement comment cela fonctionne :
 
 Screen schema et footprints de KiCad…
 
----
