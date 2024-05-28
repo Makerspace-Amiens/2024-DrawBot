@@ -126,16 +126,16 @@ Châssis du robot et fixation pour les moteurs.
 
 ## Logiciels et outils
 
-- ![Inkscape](images/inkscape.png) **Inkscape :**  
+- ![Inkscape](images/inkscape.jpg) **Inkscape :**  
   Pour convertir les images JPEG en fichiers SVG, nous allons utiliser Inkscape (amélioration : l'inclure sur une surface directe au robot).
 
 - ![Arduino IDE](images/arduino.png) **L'IDE Arduino :**  
   Utilisé pour écrire, compiler et téléverser le G-Code sur la carte ESP32.
 
-- ![OnShape](images/onshape.png) **On Shape et SolidWorks :**  
+- ![OnShape](images/onshape.png) **On Shape** **/**  ![OnShape](images/sw.png)**SolidWorks :**  
   Logiciels de modélisation 3D pour les supports.
 
-- ![ShareX](images/sharex.png) **ShareX :**  
+- ![ShareX](images/sharex.jpg) **ShareX :**  
   Capture d'écran professionnelle des modélisations 3D.
 
 - ![KiCad](images/kicad.png) **KiCad :**  
