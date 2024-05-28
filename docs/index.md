@@ -1,9 +1,3 @@
----
-layout: home
-nav_order: 1
-title: Accueil
----
-
 # Bienvenue sur notre documentation
 
 Bienvenue dans la documentation du projet Drawbot. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et même reproduire et améliorer efficacement notre projet.
