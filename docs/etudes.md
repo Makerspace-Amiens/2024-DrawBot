@@ -126,22 +126,22 @@ Châssis du robot et fixation pour les moteurs.
 
 ## Logiciels et outils
 
-- **Logiciel de conversion d'image :**  
+- ![Inkscape](images/inkscape.png) **Inkscape :**  
   Pour convertir les images JPEG en fichiers SVG, nous allons utiliser Inkscape (amélioration : l'inclure sur une surface directe au robot).
 
-- **L'IDE Arduino :**  
+- ![Arduino IDE](images/arduino.png) **L'IDE Arduino :**  
   Utilisé pour écrire, compiler et téléverser le G-Code sur la carte ESP32.
 
-- **On Shape et SolidWorks :**  
+- ![OnShape](images/onshape.png) **On Shape et SolidWorks :**  
   Logiciels de modélisation 3D pour les supports.
 
-- **ShareX :**  
+- ![ShareX](images/sharex.png) **ShareX :**  
   Capture d'écran professionnelle des modélisations 3D.
 
-- **Kicad :**  
+- ![KiCad](images/kicad.png) **KiCad :**  
   Logiciel de réalisation de circuit imprimé.
 
-- **FluidNC :**  
+- ![FluidNC](images/fluidnc.png) **FluidNC :**  
   Firmware optimisé pour l’ESP32, intégrant une Interface Utilisateur au projet (WIFI).
 
 ## Études
@@ -204,4 +204,3 @@ Voici un schéma pour expliquer simplement comment cela fonctionne :
 - **Servo :** Idem.
 
 Screen schema et footprints de KiCad…
-
