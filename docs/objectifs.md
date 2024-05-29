@@ -62,7 +62,7 @@ Ce robot est très apprécié des artistes et des designers pour sa capacité à
 Il est utilisé pour créer des fresques murales, des décorations intérieures et des projets artistiques sur divers matériaux, comme le verre, le bois, et le métal. Botsy se distingue par sa portabilité et sa facilité d'utilisation, ce qui en fait un outil précieux pour les professionnels cherchant à automatiser et à accélérer le processus de dessin mural
 
 https://www.botsy.com/
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/ID_DE_LA_VIDEO](https://www.youtube.com/watch?v=V_KFpY3DvN0)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="(https://www.youtube.com/watch?v=V_KFpY3DvN0)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Plotly, à handwriter robot
