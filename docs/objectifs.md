@@ -48,8 +48,9 @@ https://data.emotion-tech.com/ftp/Datasheets_et_sources/Lab_et_news/Scriboo/eMt_
 
 D’autres Drawbot :
 
+![exemple1](images/exemple1.png)  
 - https://www.mydiy.dev/realisations_drawbot.html
-- https://blog.zenika.com/2021/10/21/drawbot-le-robot-dessinateur-du-devfest-🖊/
+![exemple2](images/exemple2.png) 
 - https://www.reprap-france.com/article/realisez-vous-meme-un-drawbot-scriboo
 
 ## Actualité
