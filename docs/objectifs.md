@@ -50,19 +50,23 @@ https://data.emotion-tech.com/ftp/Datasheets_et_sources/Lab_et_news/Scriboo/eMt_
 D’autres Drawbot :
  
 https://www.mydiy.dev/realisations_drawbot.html
+
 ![exemple1](images/exemple1.png) 
 
 https://www.reprap-france.com/article/realisez-vous-meme-un-drawbot-scriboo
+
 ![exemple2](images/exemple2.png) 
 
 A plus grande échelle :
 
+
 Botsy, le robot de dessin mural qui permet de réaliser des dessins sur des surfaces verticales telles que des murs. 
 Ce robot est très apprécié des artistes et des designers pour sa capacité à transférer et à agrandir des motifs complexes avec précision. 
-Il est utilisé pour créer des fresques murales, des décorations intérieures et des projets artistiques sur divers matériaux, comme le verre, le bois, et le métal. Botsy se distingue par sa portabilité et sa facilité d'utilisation, ce qui en fait un outil précieux pour les professionnels cherchant à automatiser et à accélérer le processus de dessin mural
+Il est utilisé pour créer des fresques murales, des décorations intérieures et des projets artistiques sur divers matériaux, comme le verre, le bois, et le métal. Botsy se distingue par sa portabilité et sa facilité d'utilisation, ce qui en fait un outil précieux pour les professionnels cherchant à automatiser et à accélérer le processus de dessin 
 
 https://www.botsy.com/
-<iframe width="560" height="315" src="(https://www.youtube.com/watch?v=V_KFpY3DvN0)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Botsy](images/botsy.png) 
+
 
 
 Plotly, à handwriter robot
