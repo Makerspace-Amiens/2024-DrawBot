@@ -57,8 +57,8 @@ https://www.reprap-france.com/article/realisez-vous-meme-un-drawbot-scriboo
 
 ![exemple2](images/exemple2.png) 
 
-A plus grande échelle :
 
+# A plus grande échelle :
 
 Botsy, le robot de dessin mural qui permet de réaliser des dessins sur des surfaces verticales telles que des murs. 
 Ce robot est très apprécié des artistes et des designers pour sa capacité à transférer et à agrandir des motifs complexes avec précision. 
