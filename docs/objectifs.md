@@ -52,3 +52,14 @@ D’autres Drawbot :
 - https://blog.zenika.com/2021/10/21/drawbot-le-robot-dessinateur-du-devfest-🖊/
 - https://www.reprap-france.com/article/realisez-vous-meme-un-drawbot-scriboo
 
+## Actualité
+
+Le 26 mai 2024, sur TF1 pour le 20h une émission est passée au sujet de l'impression 3d et l'art et l'élément phare était un autoportrait du peintre.
+
+
+![vangogh](images/20h.png)
+
+
+C'est une œuvre complétement générée par l'IA, et réalisée par une imprimante 3D : un autoportrait très réaliste, dont l'artiste avait recouvert l'ébauche, faute de moyens pour acheter des toiles.
+
+https://www.tf1info.fr/high-tech/video-reportage-nouvelles-technologies-quand-l-ia-intelligence-artificielle-termine-des-oeuvres-inachevees-de-van-gogh-2300987.html
