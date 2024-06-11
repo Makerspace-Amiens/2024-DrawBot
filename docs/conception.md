@@ -10,7 +10,7 @@ title: Conception et prototypage
 
 **Supports moteurs**
 
-![Esquice](images/supportmoteur.png)
+![Esquice](images/supportmoteur.png) ![Esquice](images/supportpince.png)
 
 Le principe de ce support est de maintenir les moteurs aux deux extrémités en haut du tableau. Afin de ne pas abimer le tableau, nous avons pris soin d’éviter l’utilisation de vis.
 
@@ -28,7 +28,7 @@ Cela représente un inconvénient pour d'autres projets, car chaque nouvelle app
 
 ### **Supports stylo - robot**
 
-![localisation](images/localisation.png) ![Esquice](images/Esquice.png) ![Fin](images/fin.png)
+![localisation](images/supportmilieu.png) 
 
 Le stylo doit pouvoir avancer et reculer afin d'écrire ou de se déplacer sans écrire.
 
