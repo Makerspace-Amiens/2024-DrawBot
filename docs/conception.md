@@ -10,7 +10,7 @@ title: Conception et prototypage
 
 **Supports moteurs**
 
-![localisation](images/localisation.png) ![Esquice](images/supportmoteur.png) ![Fin](images/fin.png)
+![Esquice](images/supportmoteur.png)
 
 Le principe de ce support est de maintenir les moteurs aux deux extrémités en haut du tableau. Afin de ne pas abimer le tableau, nous avons pris soin d’éviter l’utilisation de vis.
 
