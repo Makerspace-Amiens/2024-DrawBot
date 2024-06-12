@@ -1,3 +1,10 @@
+---
+layout: default
+title: Introduction
+nav_order: 3
+has_children: true
+---
+
 ## **Objectifs du Projet**
 
 Les objectifs de notre projet sont définis en trois parties différentes, chacune contribuant à la réalisation réussie du Drawbot ainsi qu'à notre développement personnel en tant qu'ingénieurs.
