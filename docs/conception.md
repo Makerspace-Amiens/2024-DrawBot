@@ -40,7 +40,7 @@ Ce support comporte une niche pour insérer le servomoteur, qui sert donc d'entr
 
 De plus, un rail est prévu pour permettre à la barre dentée, qui est attachée au stylo, de glisser, permettant ainsi d'activer ou de désactiver l'écriture.
 
-![Rond](images/rond.png) ![Rond](images/rond.png)
+![Rond](images/supportpate1.png) ![Rond](images/supportpate2.png)
 
 Le stylo pourra être fixé dans un cercle spécifique, avec un système de vis pour le maintenir en place.
 
