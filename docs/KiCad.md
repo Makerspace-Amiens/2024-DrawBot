@@ -4,10 +4,14 @@ Carte PCB - Schéma électronique
 ![Schéma électronique](images/SchemaElec.jpg)
 
  
+Régulateur de tension:
+
+![Régulateur de tension](RegTension.png)
+
 
 Régulateur de tension, pour pouvoir distribuer du 12V et du 5V en fonction du composant. Deux LED peuvent s’éteindre en cas de dysfonctionnent.
 
-  
+ ![Driver](Driver.jpg)![Driver](ConDriver.jpg) 
 
 Connexions Principales du driver :
 
@@ -22,12 +26,12 @@ Connexions Additionnelles que nous n’utilisons pas mais que nous laissons à d
 
 1.	Contrôle du Microstepping :
 o	M0, M1, M2 : Choisir la résolution des pas du moteur pour un mouvement encore plus précis et fluide (très utile pour un drawbot).
-	M0 = 0, M1 = 0, M2 = 0 : Pas complet (Full step)
-	M0 = 1, M1 = 0, M2 = 0 : Demi-pas (Half step)
-	M0 = 0, M1 = 1, M2 = 0 : Quart de pas (Quarter step)
-	M0 = 1, M1 = 1, M2 = 0 : Huitième de pas (Eighth step)
-	M0 = 0, M1 = 0, M2 = 1 : Seizième de pas (Sixteenth step)
-	M0 = 1, M1 = 0, M2 = 1 : Trente-deuxième de pas (Thirty-second step)
+M0 = 0, M1 = 0, M2 = 0 : Pas complet (Full step)
+M0 = 1, M1 = 0, M2 = 0 : Demi-pas (Half step)
+M0 = 0, M1 = 1, M2 = 0 : Quart de pas (Quarter step)
+M0 = 1, M1 = 1, M2 = 0 : Huitième de pas (Eighth step)
+M0 = 0, M1 = 0, M2 = 1 : Seizième de pas (Sixteenth step)
+M0 = 1, M1 = 0, M2 = 1 : Trente-deuxième de pas (Thirty-second step)
 
 1.	EN et RST :
 o	ENABLE : Active le driver quand l'entrée est en état bas. Désactive le driver quand en état haut.
