@@ -11,6 +11,8 @@ title: Conception et prototypage
 **Supports moteurs**
 
 ![Esquice](images/supportmoteur.png) ![Esquice](images/supportpince.png)
+<img src="images/supportmoteur.png" alt="localisation" width="300"/>
+<img src="images/supportpince.png" alt="localisation" width="300"/>
 
 Le principe de ce support est de maintenir les moteurs aux deux extrémités en haut du tableau. Afin de ne pas abimer le tableau, nous avons pris soin d’éviter l’utilisation de vis.
 
@@ -23,8 +25,7 @@ Cela représente un inconvénient pour d'autres projets, car chaque nouvelle app
 
 ### **Supports Poids - moteurs**
 
-
-![localisation](images/supportpoids.png) 
+<img src="images/supportpoids.png" alt="localisation" width="300"/>
 
 
 J'ai ensuite modélisé ce support qui sera relié à nos moteurs. Ce support a pour but d'apporter du poids à notre robot et stabiliser ses mouvements. 
@@ -34,7 +35,7 @@ Avec ce poids ajouté de chaque côté du tableau, notre robot aura la précisio
 
 ### **Supports stylo - robot**
 
-![localisation](images/supportmilieu.png) 
+<img src="images/supportmilieu.png" alt="localisation" width="300"/>
 
 Le stylo doit pouvoir avancer et reculer afin d'écrire ou de se déplacer sans écrire. Pour ce faire, nous avons conçu un mécanisme de coulissement à l'aide d'un servomoteur.
 
@@ -47,7 +48,9 @@ Ce mécanisme garantit que le stylo reste stable et bien aligné, améliorant ai
 
 Pour notre projet, le servomoteur permet de contrôler si le stylo dessine ou non. Grâce à son bras, le servomoteur peut contrôler le stylo. Lorsque la patte du servo moteur appuie contre le tableau, le stylo est soulevé et ne dessine pas. En revanche,  lorsque la patte du servo moteur est relevée, le stylo touche le tableau et peut donc dessiner.
 
-![Rond](images/supportpate1.png) ![Rond](images/supportpate2.png)
+
+<img src="images/supportpate1.png" alt="localisation" width="300"/>
+<img src="images/supportpate2.png" alt="localisation" width="300"/>
 
 
 
