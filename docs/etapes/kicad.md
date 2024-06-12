@@ -84,7 +84,7 @@ Nous avons aussi implémenté une alimentation 12V (jack receiver) à brancher s
 ![Bloc d'alimentation](../images/alim.png)
 
 Enfin, cette carte permet aussi d’éviter ce genre de câblage complexe et peu pratique (ne représentant que 1 seul driver) :
-![Cablage DRV8825](../images/cablagefou.png)
+![Cablage DRV8825](../images/cablagefou.jpg)
  
 
 En quelque mot la carte PCB est un donc petit investissement nécessaire permettant l’ergonomie du robot et un gain de temps pour le câblage.
