@@ -1,12 +1,12 @@
 # Carte PCB
 
-Carte PCB - Schéma électronique
+##Carte PCB - Schéma électronique
 
  
 ![Schéma électronique](images/SchemaElec.jpg)
 
  
-Régulateur de tension:
+##Régulateur de tension:
 
 ![Régulateur de tension](images/RegTension.png)
 
@@ -15,7 +15,7 @@ Régulateur de tension, pour pouvoir distribuer du 12V et du 5V en fonction du c
 
  ![Driver](images/Driver.jpg)![Driver](images/ConDriver.jpg) 
 
-Connexions Principales du driver :
+##Driver :
 
 1.	Connexions du Moteur
 o	A1, A2 - B1, B2 : Bobine A et B du moteur pas à pas
