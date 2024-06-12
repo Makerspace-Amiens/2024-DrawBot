@@ -1,3 +1,11 @@
+---
+layout: default
+title: Contexte
+parent: Introduction
+nav_order: 5
+---
+
+
 ## **Projets Existant**
 
 Plusieurs versions de ce projet ont déjà été développées, cette immense source d'informations nous permettant d'imager notre projet et d'en tirer les meilleurs éléments. Notre version de ce projet vise à innover dans l'efficacité et l'accessibilité, notamment grâce à notre carte ESP32 permettant d'être utilisé via wifi/bluetooth.
