@@ -47,7 +47,7 @@ Contrôler le mouvement vertical du marqueur.
 
 ### **Moteurs - NEMA 17**
 
-![NEMA 17 Motor](images/moteurNEMA17.jpg)![Datasheet NEMA 17 Motor](images/FTNEMA17.jpg)
+![NEMA 17 Motor](images/moteurNEMA17.png)![Datasheet NEMA 17 Motor](images/FTNEMA17.png)
 
 **Role pour le robot :**  
 Déplacer le drawbot sur les axes X et Y.
@@ -93,7 +93,7 @@ Utilisé pour alimenter et contrôler les moteurs pas à pas à partir de l'Ardu
 
 ### **Courroies et poulies (GT2)**
 
-![GT2 Belts and Pulleys](images/poulieGT2.jpg)
+![GT2 Belts and Pulleys](images/poulieGT2.png)
 
 **Spécificité :**  
 Transmettent le mouvement entre les moteurs et les axes X et Y.
