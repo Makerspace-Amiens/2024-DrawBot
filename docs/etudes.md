@@ -124,19 +124,19 @@ Châssis du robot et fixation pour les moteurs.
   Pour convertir les images JPEG en fichiers SVG, nous allons utiliser Inkscape (amélioration : l'inclure sur une surface directe au robot).
 
 - ![Arduino IDE](images/arduino.png) **L'IDE Arduino :**  
-  Utilisé pour écrire, compiler et téléverser le G-Code sur la carte ESP32.
+  Utilisé comme interprète du G-Code sur la carte ESP32.
 
-- ![OnShape](images/onshape.png) **On Shape** **/**  ![OnShape](images/sw.jpg)**SolidWorks :**  
-  Logiciels de modélisation 3D pour les supports.
+- ![OnShape](images/onshape.png) **On Shape :**
+  Logiciel de modélisation 3D pour les supports.
 
 - ![ShareX](images/sharex.jpg) **ShareX :**  
-  Capture d'écran professionnelle des modélisations 3D.
+  Capture d'écran professionnelle pour le projet.
 
 - ![KiCad](images/kicad.png) **KiCad :**  
   Logiciel de réalisation de circuit imprimé.
 
-- ![FluidNC](images/fluidnc.png) **FluidNC :**  
-  Firmware optimisé pour l’ESP32, intégrant une Interface Utilisateur au projet (WIFI).
+- ![UGS](images/ugs.png) **UGS :**  
+  Logiciel pour envoyer des fichiers G-code aux machines CNC, avec une interface utilisateur intuitive pour contrôler le Drawbot via USB.
 
 ## Études
 
@@ -148,15 +148,15 @@ Pour mieux comprendre son fonctionnement, voyons les différentes étapes du pro
 
 ![etudes](images/etudes.png)
 
-1. **Conversion d'image JPEG en SVG :**
+1. **Conversion d'image matriciel en image vectoriel :**
 
     - Le processus débute par l'envoi d'une image sous format JPEG. Cette image est ensuite convertie en un fichier SVG (Scalable Vector Graphics) pour la vectoriser.
-    - Contrairement aux images JPEG basées sur des pixels fusionnés en une seule image, les fichiers SVG sont basés sur des vecteurs et conservent les informations sur chaque élément graphique séparément, tels que les lignes, les courbes, les formes, etc.
+    - Contrairement aux images matricielles (PNG/JPEG..) basées sur des pixels fusionnés en une seule image, les fichiers vectoriels (SVG) sont basés sur des vecteurs et conservent les informations sur chaque élément graphique séparément, tels que les lignes, les courbes, les formes, etc.
     - Ainsi, en convertissant l'image en SVG, le DrawBot peut suivre précisément les contours et les formes lors du dessin et les reproduire fidèlement sur le tableau.
 
-2. **Analyse du SVG :**
+2. **Conversion d'image vectoriel en coordonnées machine :**
 
-    - Une fois convertie en SVG, l'image est analysée pour extraire les coordonnées x,y des trajectoires de dessin.
+    - Une fois convertie en SVG, l'image est convértie en coordonnées x,y des trajectoires de dessin.
     - Ces coordonnées représentent les contours des formes et des lignes dans l'image et serviront à guider le DrawBot lors du dessin.
 
 3. **Transmission des coordonnées au microcontrôleur :**
