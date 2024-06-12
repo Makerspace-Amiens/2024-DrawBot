@@ -19,6 +19,8 @@ Pour donner une utilité du projet à plus grande échelle, comme dans la pub, l
 
 C’est donc un projet à petite échelle qui a néanmoins le même principe et le même fonctionnement qu’un vrai robot utilisable par des professionnels.
 
+![Grand Drawbot](images/DrawbotGE.jpg)
+
 En tant qu’étudiants en ingénierie, ce projet présente donc plusieurs aspects intéressants :
 
 Tout d’abord, c’est une occasion d’appliquer les connaissances théoriques acquises au cours de nos études en pratique. La conception et la réalisation vont nous favoriser la maîtrise de nos compétences en électronique et en programmation.
