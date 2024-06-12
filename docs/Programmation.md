@@ -14,6 +14,7 @@ S'assurer que l'IDE Arduino est installé à une version supérieur à 1.8.
 Sinon voici un lien pour télecharger la dernière version [ICI](https://www.arduino.cc/en/software).
 
 
+
 ## Installation du Firmware GRBL sur l'ESP32
 
 
@@ -26,24 +27,33 @@ Sinon voici un lien pour télecharger la dernière version [ICI](https://www.ard
 
 3. **Ouvrir le dossier :**
 
-   Relancer l'IDE Ardnuino.
+   Relancer l'IDE Arduino.
    (`Ouvrir Fichier > Exemples > grbl > grblUpload`).
    ![ugs](images/arduino_instruction.png)
    
-5. **Téléverser le Sketch sur l'ESP32 :**
+4. **Téléverser le Sketch sur l'ESP32 :**
       Connecter l'ESP32 à votre ordinateu via USB.
       Sélectionner le port série correct (`Outils > Port`).
       Sélectionner la carte ESP32 appropriée (`Outils > Type de carte`).
       Cliquer sur "Téléverser" et attendre la fin du processus.
+
+
+## Fonctionnement
+
+Algorigramme représentant le fonctionnement de l'interprete du GRBL dans l'Arduino IDE.
+
+![algorigramme](images/algorigrame.png)
+
 
 ## Utilisation d'Universal Gcode Sender (UGS)
 
 1. **Lancer UGS :**
     - Lancer le programme.
 
-![ugs](images/ugs_image.png)
+   
 2. **Charger le Fichier G-code :**
     - Aller dans `File > Open` et sélectionnez le fichier G-code généré précédemment.
+![ugs](images/ugs_image.png)
 
 3. **Connexion à l'ESP32 :**
     - Sélectionner le port série et la vitesse de connexion (généralement 115200).
@@ -58,9 +68,5 @@ Sinon voici un lien pour télecharger la dernière version [ICI](https://www.ard
     - Cliquer sur "Send" pour envoyer le fichier G-code au drawbot.
     - Le drawbot commencera à dessiner l'image.
   
-## Fonctionnement
 
-Algorigramme représentant le fonctionnement de l'interprete du GRBL dans l'Arduino IDE.
-
-![algorigramme](images/algorigrame.png)
 
