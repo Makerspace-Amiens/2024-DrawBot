@@ -46,35 +46,31 @@ En cas de manque de temps, de problèmes techniques ou juste comme inspiration, 
 
 https://data.emotion-tech.com/ftp/Datasheets_et_sources/Lab_et_news/Scriboo/eMt_Scriboo_release_1.1.zip
 
-
 # D’autres Drawbot :
- 
+
 https://www.mydiy.dev/realisations_drawbot.html
 
-![exemple1](images/exemple1.png) 
+![exemple1](../images/exemple1.png) 
 
 https://www.reprap-france.com/article/realisez-vous-meme-un-drawbot-scriboo
 
-![exemple2](images/exemple2.png) 
-
+![exemple2](../images/exemple2.png) 
 
 # A plus grande échelle :
 
-Botsy, le robot de dessin mural qui permet de réaliser des dessins sur des surfaces verticales telles que des murs. 
+**Botsy**, le robot de dessin mural qui permet de réaliser des dessins sur des surfaces verticales telles que des murs. 
 Ce robot est très apprécié des artistes et des designers pour sa capacité à transférer et à agrandir des motifs complexes avec précision. 
 Il est utilisé pour créer des fresques murales, des décorations intérieures et des projets artistiques sur divers matériaux, comme le verre, le bois, et le métal. Botsy se distingue par sa portabilité et sa facilité d'utilisation, ce qui en fait un outil précieux pour les professionnels cherchant à automatiser et à accélérer le processus de dessin 
 
 https://www.botsy.com/
-![Botsy](images/botsy.png) 
+![Botsy](../images/botsy.png) 
 
-
-
-Plotly, à handwriter robot
+**Plotly, à handwriter robot**
 
 Ce drawbot est conçu pour réaliser des dessins et des tracés complexes avec une grande précision. Utilisé principalement avec des Raspberry Pi, PlottyBot est capable de dessiner des illustrations détaillées sur des surfaces plus grandes, transformant des images numériques en art physique. Ce projet est particulièrement apprécié pour sa flexibilité et sa capacité à traiter des projets artistiques variés, allant des simples croquis aux œuvres complexes​
 
 https://hackaday.com/2022/02/07/plottybot-a-drawbot-that-plots-a-lot/
-![mit](images/plotly.png) ]
+![mit](../images/plotly.png) 
 
 ## Actualité
 
@@ -82,9 +78,7 @@ Le 26 mai 2024, sur TF1 pour le 20h une émission est passée au sujet de l'impr
 
 L'élément phare était un autoportrait de Van Gogh.
 
-
-![vangogh](images/20h.png)
-
+![vangogh](../images/20h.png)
 
 C'est une œuvre complétement générée par l'IA, et réalisée par une imprimante 3D : un autoportrait très réaliste, dont l'artiste avait recouvert l'ébauche, faute de moyens pour acheter des toiles.
 
