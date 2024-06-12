@@ -69,6 +69,8 @@ SLEEP : Met le driver en mode basse consommation pour économiser de l'énergie 
 
 # Carte PCB – Routage: 
 
+![Routage](../images/routage.png)
+
 **Taille des fils** :
 
 Pour une application de 5V nous avons utilisé un fil de 20 AWG soit 0.8mm de diamètre ; et un fil de 16 AWG pour le 12V soit d=1,3 mm
@@ -77,11 +79,12 @@ Pour une application de 5V nous avons utilisé un fil de 20 AWG soit 0.8mm de di
 
 Afin d’envoyer le GDCODE, en cas de panne wifi, l’utilisateur pourra tout simplement le transverser via carte micro SD implémenter sur la carte.
 
-Nous avons implémenté sur la carte PCB une alimentation 12V évitant ce genre d’alimentation encombrante :
- 
+Nous avons aussi implémenté une alimentation 12V (jack receiver) à brancher sur secteur, évitant ce genre d’alimentation encombrante :
+
+![Bloc d'alimentation](../images/alim.png)
 
 Enfin, cette carte permet aussi d’éviter ce genre de câblage complexe et peu pratique (ne représentant que 1 seul driver) :
-
+![Cablage DRV8825](../images/cablagefou.png)
  
 
 En quelque mot la carte PCB est un donc petit investissement nécessaire permettant l’ergonomie du robot et un gain de temps pour le câblage.
