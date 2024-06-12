@@ -59,7 +59,7 @@ SLEEP : Met le driver en mode basse consommation pour économiser de l'énergie 
 Étant un petit projet, nous n’avons pas brancher FAULT (Indicateur de défautqui passe en état bas si un problème est détecté (surchauffe...) pour réduire le prix de la PCB.
 
 
-**Carte PCB – Routage**:
+## Carte PCB – Routage:
 
  
 
