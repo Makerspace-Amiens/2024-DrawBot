@@ -16,13 +16,6 @@ just_the_docs:
 plugins:
   - jekyll-remote-theme
 
-#Ordonnancement
-  - file: index 
-    sections:
-      - file: introduction/section1
-      - file: contexte/section2
-      - file: cdc/section3
-
 # Exclusions
 exclude:
   - Gemfile
