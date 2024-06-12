@@ -2,11 +2,11 @@
 
 ## Choix techniques
 
-### **ESP WROOM 32**
+### **Module - ESP-WROOM-32**
 
-![ESP32](images/esp32.jpg)
+![ESP32](images/Esp32.png)
 
-**Spécificité :**  
+**Role pour le drawbot :**  
 La carte fonctionne comme le cerveau du drawbot. Elle contrôlera les moteurs et recevra les commandes pour dessiner.
 
 **Documentation :**  
@@ -15,21 +15,21 @@ La carte fonctionne comme le cerveau du drawbot. Elle contrôlera les moteurs et
 **Pourquoi choisir l'ESP32 ?**
 
 - **Connectivité avancée :**  
-  L'ESP32 offre une connectivité Wifi et Bluetooth intégrée grâce au microcontrôleur basé sur le chipset ESP32 - u-blox® NORA-W106 (ESP32-S3).
+  L'ESP32 offre une connectivité Wifi et Bluetooth, des focntionnalitées intéréssantes pour envoyer nos GCODES.
 
 - **Puissance de traitement :**  
-  La carte est équipée d'un processeur Dual-core, avec une fréquence pouvant atteindre 240 MHz, offrant d'excellentes capacités de calcul. Il est plus puissant que de nombreuses autres cartes Arduino, ce qui lui permet de gérer efficacement les calculs complexes nécessaires au contrôle des moteurs pas à pas et à d'autres tâches de traitement en temps réel.
+  La carte est équipée d'un processeur Dual-core (fréquence de 240 MHz). Il permet non-seulement de gérer efficacement les calculs complexes nécessaires au contrôle des moteurs pas à pas mais aussi le multitache où d'autres tâches de traitement en temps réel.
 
 **À noter :**
 
-- L'ESP32 dispose de 14 broches d'E/S, offrant une certaine flexibilité pour une potentielle extension de notre projet.
+- L'ESP32 dispose de 14 broches d'E/S, offrant une certaine flexibilité pour une potentielle extension du drawbot. Notamment pour le microstrepping offert par les broches M0, M1 et M2 que nous n'utilisons pas pour notre projet.
 
-### **SG90 Servo Moteur**
+### **Servo Moteur - SG90**
 
-![Servo Motor](images/servomotor.png)
+![Servo Motor](images/ServoSG90.png)
 
-**Spécificité :**  
-Contrôler le mouvement vertical du marqueur du drawbot.
+**Role pour le drawbot :**  
+Contrôler le mouvement vertical du marqueur.
 
 **Fiche technique :**  
 [SG90 Datasheet](https://robotix.ah-oui.org/user_docs/dos11/sg90-data.pdf)
@@ -37,7 +37,7 @@ Contrôler le mouvement vertical du marqueur du drawbot.
 **Pourquoi choisir le SG90 ?**
 
 - **Force, précision et fiabilité :**  
-  Pour lever et baisser le stylo, le SG90 est suffisamment précis. Bien qu’il ne soit pas le servo moteur le plus puissant, la force qu’il peut fournir est largement suffisante.
+  Pour lever et baisser le stylo, le SG90 est suffisamment précis et bien qu’il ne soit pas le servo moteur le plus puissant, la force qu’il peut fournir est largement suffisante.
 
 - **Taille compacte :**  
   Le SG90 est plus petit et plus léger que le servo moteur MG996R, ce qui le rend plus adapté à notre drawbot avec ses déplacements où la taille et le poids sont à prendre en compte.
@@ -45,11 +45,11 @@ Contrôler le mouvement vertical du marqueur du drawbot.
 - **Prix :**  
   Le SG90 est l'un des servos moteurs les moins chers disponibles sur le marché, avec un prix unitaire d'environ 1 euro.
 
-### **Moteurs NEMA 17**
+### **Moteurs - NEMA 17**
 
-![NEMA 17 Motor](images/motor.jpg)
+![NEMA 17 Motor](images/moteurNEMA17.jpg)![Datasheet NEMA 17 Motor](images/FTNEMA17.jpg)
 
-**Spécificités :**  
+**Role pour le robot :**  
 Déplacer le drawbot sur les axes X et Y.
 
 **En savoir plus :**  
@@ -57,20 +57,24 @@ Déplacer le drawbot sur les axes X et Y.
 
 **Pourquoi choisir des moteurs NEMA 17 ?**
 
+- **Pourquoi choisir des moteurs pas à pas ?**  
+Les moteurs pas à pas avancent par incréments précis à chaque impulsion électrique, ce qui facilite la gestion du positionnement et du mouvement du stylo.
+
 - **Couple et précision :**  
   Ils offrent un bon équilibre entre taille et puissance, idéal pour déplacer le stylo et le support avec précision sur toute la surface de dessin.
 
 - **Fiabilité et durabilité :**  
   Robustes et fiables, ils sont adaptés à une utilisation à long terme pour notre projet.
+  
+- **Microtepping :**
+  Améliore la performance globale des moteurs pas à pas en réduisant les vibrations et le bruit, en améliorant la précision du positionnement, en réduisant les à-coups et en optimisant l'efficacité énergétique.
 
-**Pourquoi choisir des moteurs pas à pas ?**  
-Les moteurs pas à pas avancent par incréments précis à chaque impulsion électrique, ce qui facilite la gestion du positionnement et du mouvement du stylo.
-
+  
 ### **Driver moteur DRV8825**
 
-![DRV8825 Driver](images/DRV8825.png)
+![DRV8825 Driver](images/DriverDRV8825.png)
 
-**Spécificités :**  
+**Role pour le robot :**  
 Utilisé pour alimenter et contrôler les moteurs pas à pas à partir de l'Arduino.
 
 **Documentation :**  
@@ -89,7 +93,7 @@ Utilisé pour alimenter et contrôler les moteurs pas à pas à partir de l'Ardu
 
 ### **Courroies et poulies (GT2)**
 
-![GT2 Belts and Pulleys](images/GT2.jpg)
+![GT2 Belts and Pulleys](images/poulieGT2.jpg)
 
 **Spécificité :**  
 Transmettent le mouvement entre les moteurs et les axes X et Y.
@@ -115,8 +119,7 @@ Alimenter le drawbot
 
 ### **Support 3D**
 
-**Spécificités :**  
-Châssis du robot et fixation pour les moteurs.
+LIEN POUR RENVOYER A LA PARTIE SUPPORTS 3D
 
 ## Logiciels et outils
 
@@ -193,8 +196,4 @@ Voici un schéma pour expliquer simplement comment cela fonctionne :
 
 ### **Étude branchement et technique – carte KiCad**
 
-- **Régulateur + Image**
-- **Driver :** Où les pattes sont connectées et pourquoi, + pourquoi le condensateur.
-- **Servo :** Idem.
-
-Screen schema et footprints de KiCad…
+LIEN POUR RENVOYER A KICAD
