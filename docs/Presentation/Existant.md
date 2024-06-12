@@ -42,13 +42,13 @@ https://hackaday.com/2022/02/07/plottybot-a-drawbot-that-plots-a-lot/
 
 Le 26 mai 2024, sur TF1 pour le 20h une émission est passée au sujet de l'impression 3d et du milieu de l'art, on à pu y voir une multitude de peinture recrées grâce à l'IA.
 
-L'élément phare était un autoportrait de Van Gogh.
+L'élément phare était un **autoportrait de Van Gogh.**
 
 ![vangogh](../images/20h.png)
 
 C'est une œuvre complétement générée par l'IA, et réalisée par une imprimante 3D : un autoportrait très réaliste, dont l'artiste avait recouvert l'ébauche, faute de moyens pour acheter des toiles.
 
-Citation de l'article :
+**Citation de l'article** :
 "Face à une toile supposée de Van Gogh, une visiteuse reste perplexe. "Je me suis dit, c'est le style de Van Gogh, mais je sais que ce n'est pas une de ses toiles parce que je connais un petit peu le peintre, donc, ça m'a intrigué", explique Agathe au micro de TF1. Bien vu de sa part, car l'artiste de ce tableau n'est autre qu'une intelligence artificielle, aidée d'une imprimante 3D"
 
 https://www.tf1info.fr/high-tech/video-reportage-nouvelles-technologies-quand-l-ia-intelligence-artificielle-termine-des-oeuvres-inachevees-de-van-gogh-2300987.html
