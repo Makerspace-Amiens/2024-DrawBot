@@ -33,9 +33,7 @@ Cela représente un inconvénient pour d'autres projets, car chaque nouvelle app
 Le stylo doit pouvoir avancer et reculer afin d'écrire ou de se déplacer sans écrire.
 
 Pour ce faire, nous avons conçu un mécanisme de coulissement en avant et en arrière à l'aide d'un servomoteur, d'un engrenage et d'un rail.
-
-![localisation](images/localisation.png) ![Finv1](images/finv1.png)
-
+![localisation](images/supportpoids.png) 
 Nous avons ainsi fabriqué un support auquel les courroies seront attachées.
 
 Ce support comporte une niche pour insérer le servomoteur, qui sert donc d'entraînement pour faire coulisser le stylo en avant ou en arrière.
