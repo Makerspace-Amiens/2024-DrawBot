@@ -1,7 +1,7 @@
 Carte PCB - Schéma électronique
 
  
-![Schéma électronique](images/SchemaElec)
+![Schéma électronique](images/SchemaElec.jpg)
 
  
 
