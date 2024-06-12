@@ -10,7 +10,7 @@ title: Conception et prototypage
 
 **Supports moteurs**
 
-![Esquice](images/supportmoteur.png) ![Esquice](images/supportpince.png)
+
 <img src="images/supportmoteur.png" alt="localisation" width="300"/>
 <img src="images/supportpince.png" alt="localisation" width="300"/>
 
