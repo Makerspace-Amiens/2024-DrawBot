@@ -213,6 +213,3 @@ Voici un schéma pour expliquer simplement comment cela fonctionne :
   Le GCODE poura éventuellement être envoyé par WiFi, server, ect.
 
 
-### **Étude branchement et technique – carte KiCad**
-
-LIEN POUR RENVOYER A KICAD
