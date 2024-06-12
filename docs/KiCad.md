@@ -1,6 +1,7 @@
 Carte PCB - Schéma électronique
 
  
+![Schéma électronique](images/SchemaElec)
 
  
 
