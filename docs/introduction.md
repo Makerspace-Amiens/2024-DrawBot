@@ -9,6 +9,8 @@ Son fonctionnement repose sur 2 systèmes simples :
 - **La navigation :** Basée sur deux moteurs qui permettent le déplacement du robot sur toute la surface du tableau.
 - **Le dessin :** Le Drawbot utilise un mécanisme de rouage pour contrôler le stylo. Le robot peut ainsi avancer ou reculer le stylo selon les besoins du dessin.
 
+![Illustration du Drawbot](images/dessinDrawbot.jpg) ![Fonctionnement du robt](images/AlgoFtcSimple.jpg)
+
 Outre le fonctionnement du robot, son utilisateur pourra le contrôler de manière simple depuis une interface utilisateur.
 
 Pour donner une utilité du projet à plus grande échelle, comme dans la pub, l’art ou même dans la décoration en architecture, un Drawbot plus grand et avec de nombreux capteurs pourrait créer des œuvres précises sur de grandes surfaces. Comme peindre des motifs sur des surfaces de maisons (intérieures - extérieures) et d’autres encore.
