@@ -21,12 +21,7 @@ plugins:
     sections:
       - file: introduction/section1
       - file: contexte/section2
-      - file: cdc 
-    
-
-- file: chapter1
-
-
+      - file: cdc/section3
 
 # Exclusions
 exclude:
