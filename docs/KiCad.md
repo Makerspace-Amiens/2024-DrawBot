@@ -1,6 +1,6 @@
 # Carte PCB
 
-##Carte PCB - Schéma électronique
+## Carte PCB - Schéma électronique
 
  
 ![Schéma électronique](images/SchemaElec.jpg)
@@ -15,7 +15,7 @@ Régulateur de tension, pour pouvoir distribuer du 12V et du 5V en fonction du c
 
  ![Driver](images/Driver.jpg)![Driver](images/ConDriver.jpg) 
 
-##Driver :
+## Driver :
 
 1.	Connexions du Moteur
 o	A1, A2 - B1, B2 : Bobine A et B du moteur pas à pas
@@ -24,7 +24,9 @@ o	A1, A2 - B1, B2 : Bobine A et B du moteur pas à pas
 o	STEP : Entrée pour les impulsions de pas qui font avancer le moteur.
 o	DIR : Entrée pour définir la direction du mouvement. État haut ou bas pour inverser la direction du moteur.
 
-Connexions Additionnelles que nous n’utilisons pas mais que nous laissons à disposition sur la carte PCB en cas de développement du robot :
+## Connexions Additionnelles 
+
+Pour notre projet, nous n’utilisons pas ces connexions mais nous laissons cependant à disposition sur la carte PCB en cas de développement du robot :
 
 1.	Contrôle du Microstepping :
 o	M0, M1, M2 : Choisir la résolution des pas du moteur pour un mouvement encore plus précis et fluide (très utile pour un drawbot).
