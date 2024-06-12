@@ -1,8 +1,12 @@
+---
+layout: default
+title: Contexte
+parent: Introduction
+nav_order: 2
+---
+
+
 ![equipe](../images/equipe.png)
-
-
-Tous les 3 élèves à UniLaSalle Amiens en 3ème année du cycle Ingénieur, nous avions à réaliser un Drawbot mural fonctionnelle.
-
 
 ## Répartition des tâches :
 
