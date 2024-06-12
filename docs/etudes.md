@@ -203,9 +203,15 @@ Voici un schéma pour expliquer simplement comment cela fonctionne :
   Les drivers reçoivent et gèrent le pas et la direction des moteurs. C'est aussi eux qui envoient la tension nécessaire aux moteurs pour fonctionner.
   Pour les fonctionnalitées techniques de chaque PIN, c'est ICI (KiCad) que vous en saurez plus!
 
-- **G-Code dans la SD :** Plus tard par WiFi.
-- **Moteur :** Tourne pour faire bouger le robot.
-- **Servo :** S'active pour avancer ou reculer le stylo, permettant d'écrire ou non.
+- **Vert :**
+  Les moteurs et le servo se chargerons donc du dessin grâce aux info reçues. Pour rappel:
+  
+  ![Fonctionnement du dessin](images/AlgoFtcSimple.png)
+
+  
+- **Bleu :**
+  Le GCODE poura éventuellement être envoyé par WiFi, server, ect.
+
 
 ### **Étude branchement et technique – carte KiCad**
 
