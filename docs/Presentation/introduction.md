@@ -1,6 +1,9 @@
+---
 layout: default
-title: Introduction au projet
-nav_order: 1
+title: Introduction
+nav_order: 6
+has_children: true
+---
 
 ## Introduction
 
