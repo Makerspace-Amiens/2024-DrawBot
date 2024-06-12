@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Introduction
+title: Contexte
+parent: Introduction
 nav_order: 3
-has_children: true
 ---
+
 
 ## **Objectifs du Projet**
 
