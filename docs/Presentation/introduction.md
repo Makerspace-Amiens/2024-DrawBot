@@ -8,14 +8,14 @@ Nous sommes trois étudiants en troisième année d'école d'ingénieur à UniLa
 
 Il s'agit d'un robot conçu pour dessiner de manière automatisée sur une surface verticale.
 
-![Illustration du Drawbot](images/dessinDrawbot.jpg)
+![Illustration du Drawbot](../images/dessinDrawbot.jpg)
 
 Son fonctionnement repose sur 2 systèmes simples :
 
 - **La navigation :** Basée sur deux moteurs qui permettent le déplacement du robot sur toute la surface du tableau.
 - **Le dessin :** Le Drawbot utilise un mécanisme de rouage pour contrôler le stylo. Le robot peut ainsi avancer ou reculer le stylo selon les besoins du dessin.
 
-![Fonctionnement du robt](images/AlgoFtcSimple.png)
+![Fonctionnement du robt](../images/AlgoFtcSimple.png)
 
 Outre le fonctionnement du robot, son utilisateur pourra le contrôler de manière simple depuis une interface utilisateur.
 
@@ -23,7 +23,7 @@ Pour donner une utilité du projet à plus grande échelle, comme dans la pub, l
 
 C’est donc un projet à petite échelle qui a néanmoins le même principe et le même fonctionnement qu’un vrai robot utilisable par des professionnels.
 
-![Grand Drawbot](images/DrawbotGE.jpg)
+![Grand Drawbot](../images/DrawbotGE.jpg)
 
 En tant qu’étudiants en ingénierie, ce projet présente donc plusieurs aspects intéressants :
 
