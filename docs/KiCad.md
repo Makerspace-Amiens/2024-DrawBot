@@ -6,12 +6,12 @@ Carte PCB - Schéma électronique
  
 Régulateur de tension:
 
-![Régulateur de tension](RegTension.png)
+![Régulateur de tension](images/RegTension.png)
 
 
 Régulateur de tension, pour pouvoir distribuer du 12V et du 5V en fonction du composant. Deux LED peuvent s’éteindre en cas de dysfonctionnent.
 
- ![Driver](Driver.jpg)![Driver](ConDriver.jpg) 
+ ![Driver](images/Driver.jpg)![Driver](images/ConDriver.jpg) 
 
 Connexions Principales du driver :
 
