@@ -135,7 +135,7 @@ Châssis du robot et fixation pour les moteurs.
 - ![KiCad](images/kicad.png) **KiCad :**  
   Logiciel de réalisation de circuit imprimé.
 
-- ![UGS](images/ugs.png) **UGS :**  
+- ![UGS](images/ugs_.png) **UGS :**  
   Logiciel pour envoyer des fichiers G-code aux machines CNC, avec une interface utilisateur intuitive pour contrôler le Drawbot via USB.
 
 ## Études
