@@ -16,6 +16,28 @@ just_the_docs:
 plugins:
   - jekyll-remote-theme
 
+theme: jekyll-theme-slate
+
+# Enable the navigation
+collections:
+  doc:
+    output: true
+    nav_order: 1
+
+defaults:
+  - scope:
+      path: ""
+      type: doc
+    values:
+      layout: "default"
+
+# Navigation order
+nav_order:
+  - Presentation
+  - etapes
+
+
+
 # Exclusions
 exclude:
   - Gemfile
