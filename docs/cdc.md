@@ -1,4 +1,7 @@
 ## **Cahier des Charges**
+
+![Régulateur de tension](images/TabCDC.jpg)
+
 Le Drawbot doit respecter certaines spécifications techniques et fonctionnelles :
 
 # Spécifications Techniques
