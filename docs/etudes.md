@@ -47,7 +47,7 @@ Contrôler le mouvement vertical du marqueur.
 
 ### **Moteurs - NEMA 17**
 
-![NEMA 17 Motor](images/moteurNEMA17.png)![Datasheet NEMA 17 Motor](images/FTNEMA17.png)
+![NEMA 17 Motor](images/moteurNEMA17.png)![Datasheet NEMA 17 Motor](images/FTNEMA17.jpg)
 
 **Role pour le robot :**  
 Déplacer le drawbot sur les axes X et Y.
@@ -91,6 +91,9 @@ Utilisé pour alimenter et contrôler les moteurs pas à pas à partir de l'Ardu
 - **Fiabilité :**  
   Il est connu pour apporter une performance très fiable.
 
+- **PIN :**
+  Pour les fonctionnalitées techniques de chaque PIN, c'est ICI (KiCad) que vous en saurez plus!
+  
 ### **Courroies et poulies (GT2)**
 
 ![GT2 Belts and Pulleys](images/poulieGT2.png)
@@ -186,9 +189,19 @@ Voici un schéma pour expliquer simplement comment cela fonctionne :
 
 ![etudes2](images/etudes2.png)
 
-### **Étude du robot partie dessin**
+### **Étude du robot**
 
-![etudes3](images/etudes3.png)
+![etudes3](images/BrchmntSmpl.png)
+
+- **Rouge :**
+  Le robot est alimentaté en 12V, cependant, certains composants tels que l'ESP32 n'ont besoin que de 5V. Nous avons donc intégré un régulateur de tension, permettant d'alimenter chaque composant selon sa tension necessaire.
+
+- **Violet :**
+  L'ESP32 qui se chargera d'envoyer les instructions donné par le GCODE présent sur la carte SD, aux différents composants : le servo et les drivers).
+
+- **Jaune :**
+  Les drivers reçoivent et gèrent le pas et la direction des moteurs. C'est aussi eux qui envoient la tension nécessaire aux moteurs pour fonctionner.
+  Pour les fonctionnalitées techniques de chaque PIN, c'est ICI (KiCad) que vous en saurez plus!
 
 - **G-Code dans la SD :** Plus tard par WiFi.
 - **Moteur :** Tourne pour faire bouger le robot.
