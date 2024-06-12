@@ -47,7 +47,7 @@ Support Technique : Documentation détaillée et support technique disponible
 3.1. **Délais**
 
 Temps impartis : 75H à lécole pour l'équipe (75x3=225H) + temps perso
-![Cahier des charges](images/délais.jpg)
+![Cahier des charges](images/délai.jpg)
 
 3.2. **Budget**
 
