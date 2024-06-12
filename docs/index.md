@@ -24,6 +24,20 @@ Enfin, notre engagement pour ce projet c’est d’abord de mettre en place un r
 
 ## **Remerciements**
 
-Nous tenons à remercier Adrien Bracq, Guy Chaumier ainsi que nos camarades de classe pour leur aide précieuse tout au long du projet, de l'organisation à la concéption, chacun de leurs conseils nous ont permis de créer le projet de nos ambitions.
+
+Nous tenons à exprimer notre gratitude à plusieurs personnes sans qui ce projet n'aurait pas été possible :
+
+
+**Adrien BRACQ**  : *Responsable du Makerspace d'Unilasalle Amiens et Enseignant-Chercheur*
+
+**Guy CHAUMIER** : *Ingénieur d'études*
+
+**Marie-Christine PETIT** : *Responsable Formation Humanités et Entreprise*
+
+Leur aide technique et organisationnelle a été essentielle pour structurer et mener à bien notre projet. Leur soutien précieux a été constant tout au long de notre démarche, depuis l'organisation initiale jusqu'à la conception finale. 
+
+Leurs conseils avisés nous ont permis de concrétiser nos ambitions et de créer un projet dont nous sommes fiers.
+
+Nous leur adressons nos plus sincères remerciements.
 
 ---
