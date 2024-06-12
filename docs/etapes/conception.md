@@ -1,3 +1,10 @@
+---
+layout: default
+title: Conception 3D
+parent: Etapes de fabrication
+nav_order: 3
+---
+
 # Conception et prototypage
 
 **Supports moteurs**
