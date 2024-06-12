@@ -1,3 +1,7 @@
+layout: default
+title: Introduction au projet
+nav_order: 1
+
 ## Introduction
 
 Nous sommes trois étudiants en troisième année d'école d'ingénieur à UniLaSalle Amiens, et pour notre projet de fin d'année, nous avons choisi de concevoir un Drawbot mural.
