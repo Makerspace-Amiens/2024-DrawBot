@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contexte
+title: Equipe
 parent: Introduction
 nav_order: 2
 ---
