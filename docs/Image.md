@@ -1,4 +1,5 @@
 # Image
+
 L'utilisateur souhaite envoyer une image au Drawbot afin que celui-ci dessine sur une surface murale.
 ![info_image1](images/schema_image1.png)
 
@@ -26,9 +27,9 @@ Le fonctionnement est le suivant :
 Si votre image est au format matriciel, utilisez un logiciel de vectorisation comme Inkscape pour convertir l'image en format vectoriel (SVG).
 Voici deux tutoriels :
 
-    - Basique : simple conversion  -- [Basique](https://www.youtube.com/watch?v=xAHSGT0D-qg)
+ Basique : Simple conversion  -- https://www.youtube.com/watch?v=xAHSGT0D-qg
       
-    - Avancé : Modification de l'image -- [Avance](https://www.youtube.com/watch?v=xAHSGT0D-qg)
+ Avancé : Modification de l'image -- https://www.youtube.com/watch?v=xAHSGT0D-qg
 
 2. **Conversion de l'image vectorielle (SVG) en G-code** :
 
