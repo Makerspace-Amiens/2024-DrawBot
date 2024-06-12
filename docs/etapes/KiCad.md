@@ -1,22 +1,30 @@
+---
+layout: default
+title: KiCad
+parent: Etapes de fabrication
+nav_order: 4
+---
+
 **Carte PCB**
 
-## Schéma électronique
+Dans cette section, nous allons voir comment nous avons créé notre carte PCB sous KiCad.
+
+# Schéma électronique
+
+![Schéma électronique](../images/SchemaElec.jpg)
 
  
-![Schéma électronique](images/SchemaElec.jpg)
+# Régulateur de tension:
 
- 
-## Régulateur de tension:
-
-![Régulateur de tension](images/RegTension.png)
+![Régulateur de tension](../images/RegTension.png)
 
 
 Régulateur de tension, pour pouvoir distribuer du 12V et du 5V en fonction du composant. Deux LED peuvent s’éteindre en cas de dysfonctionnent.
 
- ![Driver](images/Driver.jpg)![Driver](images/ConDriver.jpg) 
+# Driver :
 
-## Driver :
-
+ ![Driver](images/../Driver.jpg) ![Driver](../images/ConDriver.jpg) 
+ 
 1.	**Connexions du Moteur**
 o	A1, A2 - B1, B2 : Bobine A et B du moteur pas à pas
 
@@ -59,9 +67,7 @@ SLEEP : Met le driver en mode basse consommation pour économiser de l'énergie 
 Étant un petit projet, nous n’avons pas brancher FAULT (Indicateur de défautqui passe en état bas si un problème est détecté (surchauffe...) pour réduire le prix de la PCB.
 
 
-## Carte PCB – Routage:
-
- 
+# Carte PCB – Routage: 
 
 **Taille des fils** :
 
