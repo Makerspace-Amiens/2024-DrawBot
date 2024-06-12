@@ -12,23 +12,23 @@ Nous avons tous les 3 faits des recherches afin de choisir les bons composants e
 Après cela, nous nous sommes répartis les tâches comme ceci :
 
 
-**Jaafar HOURIE**
+**Jaafar HOURIE** :
 
 
-    Rôles: Imprimer les supports 3D nécessaires au fonctionnement du drawbot (support central et support moteurs / contrepoids)
+Imprimer les supports 3D nécessaires au fonctionnement du drawbot (support central et support moteurs / contrepoids)
+ 
+Cablage de l'ESP32 avec les différents composants
+
+
+**Elliot POSTEL** :
+
     
-          Cablage de l'ESP32 avec les différents composants
-
-
-**Elliot POSTEL**
-
-    
-    Rôles: Réalisation du PCB ainsi que de la documentation technique, aide pour le site.
+Réalisation du PCB ainsi que de la documentation technique, aide pour le site.
 
   
-**Hugo PETIT**
+**Hugo PETIT** :
 
 
-    Rôle: Partie Informatique, programmation et conversion de l'image.
+Partie Informatique, programmation et conversion de l'image.
 
-          Réalisation du site, de la vidéo de présentation et aide pour la doc technique.
+Réalisation du site, de la vidéo de présentation et aide pour la doc technique.
