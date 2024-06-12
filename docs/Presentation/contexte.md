@@ -1,3 +1,10 @@
+---
+layout: default
+title: Contexte
+parent: Introduction
+nav_order: 1
+---
+
 ## **Contexte du Projet**
 
 Bien que le thème général du projet ait été imposé, nous avons trouvé beaucoup d'intérêt au développement d'un Drawbot mural pour plusieurs raisons :
