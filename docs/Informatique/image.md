@@ -1,7 +1,7 @@
 # Image
 
 L'utilisateur souhaite envoyer une image au Drawbot afin que celui-ci dessine sur une surface murale.
-![info_image1](images/schema_image1.png)
+![info_image1](../images/schema_image1.png)
 
 Ce dossier contient toutes les instructions et outils afin que l'image soit aux normes pour la partie programmation.
 
@@ -18,9 +18,7 @@ Dans ce projet, nous allons manier 3 types d'images :
 3. **commande pour machine CNC** : G-code -> GRBL
 
 Le fonctionnement est le suivant :
-![info_image1](images/schema_image3.png)
-
-
+![info_image1](../images/schema_image3.png)
 
 1. **Conversion d'une image matricielle en vecteur** :
 
@@ -37,7 +35,7 @@ Une fois que vous avez une image vectorielle au format SVG, utilisez l'outil "sv
 
 ## Schema 
 
-![info_image1](images/schema_image2.png)
+![info_image1](../images/schema_image2.png)
 
 ## Ressources supplémentaires
 
