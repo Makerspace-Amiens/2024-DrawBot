@@ -1,6 +1,6 @@
-# Carte PCB
+**Carte PCB**
 
-## Carte PCB - Schéma électronique
+## Schéma électronique
 
  
 ![Schéma électronique](images/SchemaElec.jpg)
