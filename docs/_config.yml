@@ -33,6 +33,7 @@ defaults:
 
 # Navigation order
 nav_order:
+  - index.md
   - Presentation
   - etapes
 
