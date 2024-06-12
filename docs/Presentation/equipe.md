@@ -1,5 +1,3 @@
-## Équipe 
-
 ![equipe](../images/equipe.png)
 
 
