@@ -2,7 +2,7 @@
 
 Bienvenue dans la documentation du projet Drawbot. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et même reproduire et améliorer efficacement notre projet.
 
-![vrai](images/vrai.png) 
+![vrai](../images/vrai.png) 
 
 ## **À propos du Projet - Le DRAWBOT**
 
@@ -14,7 +14,7 @@ Enfin, notre objectif de mettre en place un robot fonctionnel est remplis, la do
 
 ## **Poster**
 
-![Poster projet](images/poster.png)
+![Poster projet](../images/poster.png)
 
 ## **Vidéo**
 
